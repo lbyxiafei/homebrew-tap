@@ -1,6 +1,6 @@
 cask "island" do
-  version "0.2.12"
-  sha256 "6128c8aa68b1b6376bb9909faaea0c1291f69b57cd88ad3b09c69d29c7c1bd37"
+  version "0.2.13"
+  sha256 "085eaacb3dff5fcc8f39d4e29c8bd67e75d7a248ee380bd00444102e137abad3"
 
   url "https://github.com/lbyxiafei/homebrew-tap/releases/download/island-v#{version}/island-#{version}.dmg"
   name "island"
